@@ -1,0 +1,4 @@
+Mi IP Pública es: 181.116.177.97
+Mi usuario es: vagrant
+El HASH de mi usuario es: $y$j9T$YKDqIFD.esIbEj1zqtfhF1$2BxW2Gvo/GCjKPKWJ75Rb3jADWRLpZ7W9MOZmyB5RX2
+La URL de mi repositorio es: git@github.com:MatiBelsito/UTNFRA_SO_1P_2025_Belsito_2.git
